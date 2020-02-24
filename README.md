@@ -119,4 +119,4 @@ I'll open a Github issue for each of the LSP features.  I'll try to email you gu
 ## What you'll gain from contributing
 - knowledge of Language Servers/Language Clients (this is a huge boost to development quality of life)
 - learn about fish shell
-- golang resume project (golang is HOT amongst college recruiters)
+- golang resume project
